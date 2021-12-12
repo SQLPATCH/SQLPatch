@@ -10,8 +10,8 @@ SQLPatch is the first infrastructure to automatically detect and repair SQLite v
 
 ## Structure
 
-- **code**    [README there]() has details for usage.
-  - **util**  Components of SQLPATCH, including frontend module, analysis module, automatic rectification module, verification module, etc. 
+- **code**    source code of SQLPatch.
+  - **util**  Components of SQLPatch, including frontend module, analysis module, automatic rectification module, verification module, etc. 
 - **config**  Configuration file
   - **configure.json**：Configure the information of the project to be fixed. 
   - **patch_template.json**: Patch template list
