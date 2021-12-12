@@ -1,0 +1,280 @@
+[
+    {
+        "file" : "sqlite3.c",
+        "line" : 12681,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.7",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 12695,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.7",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 12709,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.7",
+        "offset" : 0
+    },
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 72801,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.8",
+        "offset" : 0
+    },
+
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 81399,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.9",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 82786,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.9",
+        "offset" : 0
+    },
+
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 86151,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.15",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 87557,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.15",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 137698,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.15",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 140927,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.15",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 145597,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&p1",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.15",
+        "offset" : 0
+    },
+
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 141872,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.21",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 145160,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.21",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 175861,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&nm->z",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.21",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 176488,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&nm->z",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.21",
+        "offset" : 0
+    },
+
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 151624,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.25",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 155070,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.25",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 190611,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&nm->z",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.25",
+        "offset" : 0
+    },
+
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 152614,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.26",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 156065,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "null",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.26",
+        "offset" : 0
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 191873,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&nm->z",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.26",
+        "offset" : 0
+    },
+
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 79461,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&x->zText",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.33",
+        "offset" : 0
+    },
+
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 80630,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&x->zText",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.36",
+        "offset" : 0
+
+    },
+
+
+    {
+        "file" : "sqlite3.c",
+        "line" : 80891,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&x->zText",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.37",
+        "offset" : 0
+
+    },
+    {
+        "file" : "sqlite3.c",
+        "line" : 86597,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&out->zText",
+        "strategy" : "skip",
+        "project_name" : "sqlite-3.37",
+        "offset" : 0
+
+    }
+]

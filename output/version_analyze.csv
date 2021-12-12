@@ -1,0 +1,11 @@
+Dead_Store,sc_Dead_Store,Uninitialized_Value,sc_Uninitialized_Value,Null_Dereference,sc_Null_Dereference,Resource_Leak,sc_Resource_Leak,BUG_SUM,sc_BUG_SUM
+21,1,92,0,14,0,0,0,127,1
+29,1,29,0,22,0,0,0,80,1
+11,0,30,0,23,0,0,0,64,0
+15,0,65,0,20,0,0,0,100,0
+23,0,66,0,21,0,0,0,110,0
+29,2,64,0,19,0,1,0,113,2
+31,2,72,1,36,1,1,0,140,4
+34,3,75,1,40,1,0,0,149,5
+37,5,75,1,15,2,0,0,127,8
+33,2,85,1,16,3,0,0,134,4

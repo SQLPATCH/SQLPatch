@@ -1,0 +1,42 @@
+[   
+  {
+    "project_name": "sqlite-3.6",
+    "download_url": "https://www.sqlite.org/src/tarball/1841aee6/SQLite-1841aee6.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.7",
+    "download_url": "https://www.sqlite.org/src/tarball/b36b105e/SQLite-b36b105e.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.8",
+    "download_url": "https://www.sqlite.org/src/tarball/f64cd21e/SQLite-f64cd21e.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.9",
+    "download_url": "https://www.sqlite.org/src/tarball/a721fc0d/SQLite-a721fc0d.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.15",
+    "download_url": "https://www.sqlite.org/src/tarball/70787558/SQLite-70787558.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.21",
+    "download_url": "https://www.sqlite.org/src/tarball/1a584e49/SQLite-1a584e49.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.25",
+    "download_url": "https://www.sqlite.org/src/tarball/b63af6c3/SQLite-b63af6c3.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.30",
+    "download_url": "https://www.sqlite.org/src/tarball/c20a3533/SQLite-c20a3533.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.33",
+    "download_url": "https://www.sqlite.org/src/tarball/fca8dc8b/SQLite-fca8dc8b.tar.gz"
+  },
+  {
+    "project_name": "sqlite-3.37",
+    "download_url": "https://www.sqlite.org/src/tarball/bd41822c/SQLite-bd41822c.tar.gz"
+  }
+]
